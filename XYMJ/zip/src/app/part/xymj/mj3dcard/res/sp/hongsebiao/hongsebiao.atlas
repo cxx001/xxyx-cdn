@@ -1,0 +1,111 @@
+
+hongsebiao.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao_00001
+  rotate: false
+  xy: 449, 11
+  size: 38, 45
+  orig: 46, 54
+  offset: 3, 4
+  index: -1
+jiao_00002
+  rotate: false
+  xy: 408, 10
+  size: 39, 46
+  orig: 46, 54
+  offset: 3, 4
+  index: -1
+jiao_00003
+  rotate: false
+  xy: 366, 8
+  size: 40, 48
+  orig: 46, 54
+  offset: 3, 3
+  index: -1
+jiao_00004
+  rotate: false
+  xy: 323, 8
+  size: 41, 48
+  orig: 46, 54
+  offset: 2, 3
+  index: -1
+jiao_00005
+  rotate: false
+  xy: 279, 6
+  size: 42, 50
+  orig: 46, 54
+  offset: 2, 2
+  index: -1
+jiao_00006
+  rotate: false
+  xy: 235, 5
+  size: 42, 51
+  orig: 46, 54
+  offset: 2, 1
+  index: -1
+jiao_00007
+  rotate: false
+  xy: 189, 4
+  size: 44, 52
+  orig: 46, 54
+  offset: 1, 1
+  index: -1
+jiao_00008
+  rotate: false
+  xy: 97, 3
+  size: 44, 53
+  orig: 46, 54
+  offset: 1, 0
+  index: -1
+jiao_00009
+  rotate: false
+  xy: 143, 3
+  size: 44, 53
+  orig: 46, 54
+  offset: 1, 0
+  index: -1
+jiao_00010
+  rotate: false
+  xy: 2, 2
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+jiao_00011
+  rotate: false
+  xy: 50, 2
+  size: 45, 54
+  orig: 46, 54
+  offset: 1, 0
+  index: -1
+jiao_00012
+  rotate: true
+  xy: 569, 33
+  size: 23, 34
+  orig: 46, 54
+  offset: 14, 10
+  index: -1
+jiao_00013
+  rotate: true
+  xy: 605, 35
+  size: 21, 34
+  orig: 46, 54
+  offset: 16, 10
+  index: -1
+red
+  rotate: true
+  xy: 528, 24
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+xxx_00001
+  rotate: false
+  xy: 489, 20
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

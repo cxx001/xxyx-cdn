@@ -1,0 +1,132 @@
+
+ssjj_framey_effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y_1_00004
+  rotate: true
+  xy: 957, 314
+  size: 156, 48
+  orig: 156, 48
+  offset: 0, 0
+  index: -1
+y_2_00004
+  rotate: false
+  xy: 2, 361
+  size: 325, 109
+  orig: 325, 109
+  offset: 0, 0
+  index: -1
+y_3_00006
+  rotate: false
+  xy: 2, 262
+  size: 289, 97
+  orig: 289, 97
+  offset: 0, 0
+  index: -1
+y_3_00007
+  rotate: false
+  xy: 329, 375
+  size: 282, 95
+  orig: 289, 97
+  offset: 6, 1
+  index: -1
+y_3_00008
+  rotate: false
+  xy: 2, 165
+  size: 275, 95
+  orig: 289, 97
+  offset: 13, 1
+  index: -1
+y_3_00009
+  rotate: false
+  xy: 613, 377
+  size: 268, 93
+  orig: 289, 97
+  offset: 19, 2
+  index: -1
+y_3_00010
+  rotate: false
+  xy: 2, 76
+  size: 254, 87
+  orig: 289, 97
+  offset: 30, 4
+  index: -1
+y_4_00006
+  rotate: true
+  xy: 883, 313
+  size: 157, 72
+  orig: 284, 72
+  offset: 0, 0
+  index: -1
+y_4_00007
+  rotate: false
+  xy: 613, 303
+  size: 176, 72
+  orig: 284, 72
+  offset: 0, 0
+  index: -1
+y_4_00008
+  rotate: false
+  xy: 279, 153
+  size: 195, 72
+  orig: 284, 72
+  offset: 0, 0
+  index: -1
+y_4_00009
+  rotate: false
+  xy: 2, 2
+  size: 214, 72
+  orig: 284, 72
+  offset: 0, 0
+  index: -1
+y_4_00010
+  rotate: false
+  xy: 329, 301
+  size: 213, 72
+  orig: 284, 72
+  offset: 14, 0
+  index: -1
+y_4_00011
+  rotate: false
+  xy: 293, 227
+  size: 204, 72
+  orig: 284, 72
+  offset: 33, 0
+  index: -1
+y_4_00012
+  rotate: false
+  xy: 258, 79
+  size: 194, 72
+  orig: 284, 72
+  offset: 52, 0
+  index: -1
+y_4_00013
+  rotate: false
+  xy: 258, 5
+  size: 184, 72
+  orig: 284, 72
+  offset: 72, 0
+  index: -1
+y_4_00014
+  rotate: true
+  xy: 791, 202
+  size: 173, 72
+  orig: 284, 72
+  offset: 92, 0
+  index: -1
+y_4_00015
+  rotate: true
+  xy: 865, 148
+  size: 163, 72
+  orig: 284, 72
+  offset: 112, 0
+  index: -1
+y_4_00016
+  rotate: true
+  xy: 939, 160
+  size: 151, 72
+  orig: 284, 72
+  offset: 133, 0
+  index: -1

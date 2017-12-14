@@ -1,0 +1,15 @@
+{
+	"packageUrl" : "http://hnhj-1253728299.costj.myqcloud.com/V1/524545/",
+	"remoteManifestUrl" : "http://hnhj-1253728299.costj.myqcloud.com/V1/524545/524545.manifest",
+	"remoteVersionUrl" : "http://hnhj-1253728299.costj.myqcloud.com/V1/524545/version.manifest",
+	"version" : "1.0.3.20171206_a",
+	"engineVersion" : "3.6",
+	"assets" : {
+		"XYMJ.zip": {
+				"md5": "6200c9c2e51289a65c25ad8ae7b857a4",
+				"compressed":true	
+			}
+	},
+    
+    "searchPaths" : ["res", "src"]
+}

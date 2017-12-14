@@ -1,0 +1,48 @@
+
+jianglixiaoguo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_1_00029
+  rotate: true
+  xy: 2, 2
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+icon_2_00027
+  rotate: false
+  xy: 582, 153
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+jianbianq_1
+  rotate: false
+  xy: 444, 118
+  size: 136, 136
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+jianbianq_2
+  rotate: false
+  xy: 302, 114
+  size: 140, 140
+  orig: 150, 150
+  offset: 5, 5
+  index: -1
+jianbianq_3
+  rotate: false
+  xy: 154, 108
+  size: 146, 146
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+jianbianq_4
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

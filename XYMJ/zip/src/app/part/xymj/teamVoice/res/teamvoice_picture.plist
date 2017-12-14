@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/teamVoice/res/aj_yy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/aj_yy_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,80},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/forbid_aj_yy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,158},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/forbid_aj_yy_light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,236},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/speaker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,314},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/speaker_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,392},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/speaker_silent.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,470},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/speaker_silent_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,548},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/laba_001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,626},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/laba_002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,704},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+			<key>app/part/xymj/teamVoice/res/laba_003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,782},{74,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,74}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>teamvoice_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>teamvoice_picture.png</string>
+			<key>size</key>
+			<string>{128,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/roomlist/res/roomlist_back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{838,56},{47,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,37}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{887,56},{40,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_fanghao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{738,86},{52,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,27}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_fangjianliebiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{667,1},{132,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,53}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_jushu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{929,72},{52,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,28}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_renshu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{983,72},{52,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{52,28}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_shengyushijian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{738,56},{98,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,28}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_yaoqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,1},{128,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,57}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/roomlist_bg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{935,1},{69,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,69}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/invite.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{132,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,56}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/room.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{801,1},{132,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,53}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/btn1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{135,1},{132,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,56}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{667,56},{69,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,69}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/next_page.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{269,1},{132,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,56}</string>
+			</dict>
+			<key>app/part/xymj/roomlist/res/pre_page.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{403,1},{132,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,56}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>roomlist_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>roomlist_picture.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

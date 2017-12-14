@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/ready/res/wait_zhunbei.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,425},{64,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/table_logo_327940.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,77},{250,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{250,96}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_wxyq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{747,1},{310,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{310,100}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/wenzi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{744,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{744,74}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_jsfj1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{951,215},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_jsfj2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{951,285},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/leftTopBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{951,1},{212,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{212,44}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/jiesan_fangjian_l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{907,425},{59,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,61}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/jiesan_fangjian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{67,415},{59,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,61}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_quxiao0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{849,1},{300,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,100}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_quxiao1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,313},{300,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,100}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_zhubei0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,373},{300,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,100}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_zhubei1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{605,373},{300,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,100}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_lt1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{849,303},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/ready/res/pz_lt2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{922,355},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ready_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>ready_picture.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

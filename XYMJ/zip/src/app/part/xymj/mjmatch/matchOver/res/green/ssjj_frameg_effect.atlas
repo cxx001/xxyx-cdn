@@ -1,0 +1,125 @@
+
+ssjj_frameg_effect.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_1_00007
+  rotate: false
+  xy: 2, 45
+  size: 162, 95
+  orig: 162, 95
+  offset: 0, 0
+  index: -1
+g_2_00007
+  rotate: false
+  xy: 2, 142
+  size: 177, 109
+  orig: 177, 109
+  offset: 0, 0
+  index: -1
+g_3_00010
+  rotate: false
+  xy: 181, 155
+  size: 154, 96
+  orig: 154, 96
+  offset: 0, 0
+  index: -1
+g_3_00011
+  rotate: false
+  xy: 337, 157
+  size: 128, 94
+  orig: 154, 96
+  offset: 15, 1
+  index: -1
+g_3_00012
+  rotate: true
+  xy: 166, 4
+  size: 92, 93
+  orig: 154, 96
+  offset: 35, 2
+  index: -1
+g_3_00013
+  rotate: true
+  xy: 289, 99
+  size: 54, 89
+  orig: 154, 96
+  offset: 53, 3
+  index: -1
+g_4_00009
+  rotate: false
+  xy: 467, 105
+  size: 122, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+g_4_00010
+  rotate: false
+  xy: 882, 179
+  size: 129, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+g_4_00011
+  rotate: false
+  xy: 608, 179
+  size: 136, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+g_4_00012
+  rotate: false
+  xy: 467, 179
+  size: 139, 72
+  orig: 140, 72
+  offset: 1, 0
+  index: -1
+g_4_00013
+  rotate: false
+  xy: 746, 183
+  size: 134, 68
+  orig: 140, 72
+  offset: 6, 0
+  index: -1
+g_4_00014
+  rotate: false
+  xy: 591, 116
+  size: 120, 61
+  orig: 140, 72
+  offset: 20, 0
+  index: -1
+g_4_00015
+  rotate: false
+  xy: 181, 98
+  size: 106, 55
+  orig: 140, 72
+  offset: 34, 0
+  index: -1
+g_4_00016
+  rotate: true
+  xy: 261, 4
+  size: 92, 48
+  orig: 140, 72
+  offset: 48, 0
+  index: -1
+g_4_00017
+  rotate: false
+  xy: 2, 2
+  size: 76, 41
+  orig: 140, 72
+  offset: 64, 0
+  index: -1
+g_4_00018
+  rotate: false
+  xy: 80, 8
+  size: 63, 35
+  orig: 140, 72
+  offset: 77, 0
+  index: -1
+g_4_00019
+  rotate: true
+  xy: 713, 130
+  size: 47, 28
+  orig: 140, 72
+  offset: 93, 0
+  index: -1

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mjgameend/res/lose.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,93},{106,68}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{107,70}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/nothing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{626,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{626,90}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/js_yl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,93},{116,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{116,69}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/zimo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{629,1},{199,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{199,112}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/liuju.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,93},{110,68}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,70}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/dt_exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{213,201},{61,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{61,61}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/continue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{916,1},{228,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{228,82}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/endGame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{830,1},{261,84}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{261,87}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/show.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,461},{223,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{223,76}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/check_result_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,264},{215,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,74}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/hu_bt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,340},{75,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,67}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/hupai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{72,93},{110,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,70}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/continuePress.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{916,231},{228,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{228,82}</string>
+			</dict>
+			<key>app/part/xymj/mjgameend/res/dianpaosss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{72,205},{101,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,53}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>end_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>end_picture.png</string>
+			<key>size</key>
+			<string>{999,685}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>999</integer>
+			<key>height</key>
+			<integer>685</integer>
+		</dict>
+	</dict>
+</plist>

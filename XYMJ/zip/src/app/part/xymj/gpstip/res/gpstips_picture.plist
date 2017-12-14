@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/gpstip/res/diss_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{567,0},{184,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,75}</string>
+			</dict>
+			<key>app/part/xymj/gpstip/res/diss_btn-l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,65},{184,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{184,75}</string>
+			</dict>
+			<key>app/part/xymj/gpstip/res/gps_tip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{535,65},{158,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{158,27}</string>
+			</dict>
+			<key>app/part/xymj/gpstip/res/tc_qx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{751,0},{183,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,74}</string>
+			</dict>
+			<key>app/part/xymj/gpstip/res/tc_qxl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,0},{183,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{183,74}</string>
+			</dict>
+			<key>app/part/xymj/gpstip/res/tip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{351,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{351,136}</string>
+			</dict>
+			<key>app/part/xymj/gpstip/res/tipBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,0},{216,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{216,65}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>gpstips_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>gpstips_picture.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,90 @@
+
+Yindao.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 478, 16
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yind_1
+  rotate: false
+  xy: 561, 24
+  size: 32, 33
+  orig: 54, 55
+  offset: 11, 12
+  index: -1
+yind_10
+  rotate: false
+  xy: 58, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+yind_11
+  rotate: false
+  xy: 114, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+yind_2
+  rotate: false
+  xy: 521, 20
+  size: 38, 37
+  orig: 54, 55
+  offset: 8, 9
+  index: -1
+yind_3
+  rotate: false
+  xy: 434, 14
+  size: 42, 43
+  orig: 54, 55
+  offset: 6, 6
+  index: -1
+yind_4
+  rotate: false
+  xy: 384, 10
+  size: 48, 47
+  orig: 54, 55
+  offset: 3, 4
+  index: -1
+yind_5
+  rotate: false
+  xy: 332, 8
+  size: 50, 49
+  orig: 54, 55
+  offset: 2, 3
+  index: -1
+yind_6
+  rotate: false
+  xy: 280, 6
+  size: 50, 51
+  orig: 54, 55
+  offset: 2, 2
+  index: -1
+yind_7
+  rotate: false
+  xy: 226, 6
+  size: 52, 51
+  orig: 54, 55
+  offset: 1, 2
+  index: -1
+yind_8
+  rotate: false
+  xy: 170, 4
+  size: 54, 53
+  orig: 54, 55
+  offset: 0, 1
+  index: -1
+yind_9
+  rotate: false
+  xy: 2, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1

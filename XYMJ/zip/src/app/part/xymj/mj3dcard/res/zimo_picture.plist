@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mj3dcard/res/zimo_ani_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{490,0},{465,455}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{499,475}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/zimo_ani_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{490,432}}</string>
+				<key>offset</key>
+				<string>{-3,14}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{499,475}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/zimo_ani_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,432},{488,419}}</string>
+				<key>offset</key>
+				<string>{-1,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{499,475}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/zimo_ani_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{488,455},{488,387}}</string>
+				<key>offset</key>
+				<string>{-1,17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{499,475}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>zimo_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>zimo_picture.png</string>
+			<key>size</key>
+			<string>{976,851}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>976</integer>
+			<key>height</key>
+			<integer>851</integer>
+		</dict>
+	</dict>
+</plist>

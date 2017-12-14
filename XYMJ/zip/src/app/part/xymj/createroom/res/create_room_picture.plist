@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/createroom/res/adom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{843,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{843,97}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/button_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,846},{206,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,79}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/button_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,927},{206,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,79}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/cjfj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{100,708},{206,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,79}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{397,873},{82,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,82}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{496,1},{870,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{870,2}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/rb_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{347,927},{51,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,47}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/rb_thumb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{448,957},{51,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,47}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/shadow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{396,957},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{100,789},{186,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,52}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/xiao_kuang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,1},{51,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,47}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/tick.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{367,1},{51,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,47}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/cjfj_title0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,789},{186,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,52}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/redpoint.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{347,980},{43,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,42}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/title0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,1},{705,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{705,103}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/title1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{100,1},{705,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{705,103}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/wdfj_title0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{308,708},{186,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,52}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/zuan_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{293,927},{62,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,52}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/close_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,927},{82,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,82}</string>
+			</dict>
+			<key>app/part/xymj/createroom/res/wdfj_title1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,873},{186,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>create_room_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>create_room_picture.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

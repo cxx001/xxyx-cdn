@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/loading/res/loading1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{82,94}}</string>
+				<key>offset</key>
+				<string>{5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,658},{81,94}}</string>
+				<key>offset</key>
+				<string>{5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,94},{94,82}}</string>
+				<key>offset</key>
+				<string>{-1,-6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,188},{94,82}}</string>
+				<key>offset</key>
+				<string>{-1,-6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,282},{82,94}}</string>
+				<key>offset</key>
+				<string>{-7,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,376},{82,94}}</string>
+				<key>offset</key>
+				<string>{-7,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,470},{94,82}}</string>
+				<key>offset</key>
+				<string>{-1,6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>app/part/xymj/loading/res/loading8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,564},{94,82}}</string>
+				<key>offset</key>
+				<string>{-1,6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>loading_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>loading_picture.png</string>
+			<key>size</key>
+			<string>{82,752}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>82</integer>
+			<key>height</key>
+			<integer>752</integer>
+		</dict>
+	</dict>
+</plist>

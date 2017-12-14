@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/record/res/recordstop/last_ju_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{81,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/last_ju_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,85},{79,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1016},{4,99}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{4,99}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/next_ju_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,170},{79,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/next_ju_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,255},{79,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/play_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,680},{55,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,84}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/play_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,764},{55,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,84}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/record_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,848},{35,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,108}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/speed_last_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,340},{68,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/speed_last_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,425},{68,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/speed_next_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,510},{68,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/speed_next_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,595},{68,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,85}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/stop_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,848},{54,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,84}</string>
+			</dict>
+			<key>app/part/xymj/record/res/recordstop/stop_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,932},{54,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,84}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>recordstop_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>recordstop_picture.png</string>
+			<key>size</key>
+			<string>{128,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

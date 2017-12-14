@@ -1,0 +1,139 @@
+
+Guafeng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longjuanfeng_00000
+  rotate: false
+  xy: 606, 130
+  size: 82, 123
+  orig: 248, 273
+  offset: 82, 25
+  index: -1
+longjuanfeng_00001
+  rotate: true
+  xy: 633, 255
+  size: 83, 156
+  orig: 248, 273
+  offset: 82, 25
+  index: -1
+longjuanfeng_00002
+  rotate: false
+  xy: 829, 389
+  size: 121, 189
+  orig: 248, 273
+  offset: 62, 25
+  index: -1
+longjuanfeng_00003
+  rotate: false
+  xy: 462, 311
+  size: 169, 225
+  orig: 248, 273
+  offset: 37, 23
+  index: -1
+longjuanfeng_00004
+  rotate: false
+  xy: 619, 543
+  size: 167, 234
+  orig: 248, 273
+  offset: 37, 13
+  index: -1
+longjuanfeng_00005
+  rotate: false
+  xy: 246, 2
+  size: 169, 243
+  orig: 248, 273
+  offset: 36, 3
+  index: -1
+longjuanfeng_00006
+  rotate: false
+  xy: 446, 538
+  size: 171, 237
+  orig: 248, 273
+  offset: 35, 9
+  index: -1
+longjuanfeng_00007
+  rotate: false
+  xy: 2, 478
+  size: 220, 273
+  orig: 248, 273
+  offset: 3, 0
+  index: -1
+longjuanfeng_00008
+  rotate: false
+  xy: 2, 753
+  size: 248, 269
+  orig: 248, 273
+  offset: 0, 4
+  index: -1
+longjuanfeng_00009
+  rotate: false
+  xy: 224, 247
+  size: 236, 237
+  orig: 248, 273
+  offset: 12, 5
+  index: -1
+longjuanfeng_00010
+  rotate: false
+  xy: 750, 781
+  size: 246, 241
+  orig: 248, 273
+  offset: 2, 5
+  index: -1
+longjuanfeng_00011
+  rotate: false
+  xy: 252, 777
+  size: 247, 245
+  orig: 248, 273
+  offset: 0, 2
+  index: -1
+longjuanfeng_00012
+  rotate: false
+  xy: 501, 779
+  size: 247, 243
+  orig: 248, 273
+  offset: 0, 4
+  index: -1
+longjuanfeng_00013
+  rotate: false
+  xy: 2, 209
+  size: 220, 267
+  orig: 248, 273
+  offset: 3, 6
+  index: -1
+longjuanfeng_00014
+  rotate: false
+  xy: 224, 486
+  size: 220, 265
+  orig: 248, 273
+  offset: 3, 8
+  index: -1
+longjuanfeng_00015
+  rotate: false
+  xy: 417, 7
+  size: 187, 238
+  orig: 248, 273
+  offset: 27, 6
+  index: -1
+longjuanfeng_00016
+  rotate: true
+  xy: 2, 12
+  size: 195, 242
+  orig: 248, 273
+  offset: 23, 0
+  index: -1
+longjuanfeng_00017
+  rotate: false
+  xy: 788, 580
+  size: 202, 199
+  orig: 248, 273
+  offset: 20, 40
+  index: -1
+longjuanfeng_00018
+  rotate: true
+  xy: 633, 340
+  size: 201, 194
+  orig: 248, 273
+  offset: 21, 36
+  index: -1

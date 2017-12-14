@@ -1,0 +1,167 @@
+
+hongbaodianji_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu_00000
+  rotate: false
+  xy: 515, 572
+  size: 131, 131
+  orig: 152, 150
+  offset: 0, 19
+  index: -1
+anniu_00001
+  rotate: false
+  xy: 844, 873
+  size: 143, 141
+  orig: 152, 150
+  offset: 0, 9
+  index: -1
+anniu_00002
+  rotate: false
+  xy: 361, 554
+  size: 152, 149
+  orig: 152, 150
+  offset: 0, 1
+  index: -1
+anniu_00003
+  rotate: false
+  xy: 538, 864
+  size: 152, 150
+  orig: 152, 150
+  offset: 0, 0
+  index: -1
+anniu_00004
+  rotate: false
+  xy: 692, 866
+  size: 150, 148
+  orig: 152, 150
+  offset: 2, 0
+  index: -1
+anniu_00005
+  rotate: false
+  xy: 538, 721
+  size: 142, 141
+  orig: 152, 150
+  offset: 10, 0
+  index: -1
+anniu_00006
+  rotate: false
+  xy: 515, 441
+  size: 131, 129
+  orig: 152, 150
+  offset: 21, 0
+  index: -1
+anniu_00007
+  rotate: true
+  xy: 648, 603
+  size: 116, 114
+  orig: 152, 150
+  offset: 36, 0
+  index: -1
+anniu_00008
+  rotate: false
+  xy: 648, 505
+  size: 98, 96
+  orig: 152, 150
+  offset: 54, 0
+  index: -1
+anniu_00009
+  rotate: false
+  xy: 88, 2
+  size: 74, 73
+  orig: 152, 150
+  offset: 77, 0
+  index: -1
+hongbao_00005
+  rotate: false
+  xy: 2, 77
+  size: 350, 464
+  orig: 350, 464
+  offset: 0, 0
+  index: -1
+kuang_00005
+  rotate: false
+  xy: 2, 543
+  size: 357, 471
+  orig: 357, 471
+  offset: 0, 0
+  index: -1
+liuguang_00004
+  rotate: false
+  xy: 361, 705
+  size: 172, 134
+  orig: 172, 134
+  offset: 0, 0
+  index: -1
+quan_00002
+  rotate: false
+  xy: 361, 841
+  size: 175, 173
+  orig: 175, 173
+  offset: 0, 0
+  index: -1
+yanliug_00002
+  rotate: true
+  xy: 989, 961
+  size: 53, 30
+  orig: 101, 67
+  offset: 48, 0
+  index: -1
+yanliug_00003
+  rotate: true
+  xy: 711, 438
+  size: 65, 35
+  orig: 101, 67
+  offset: 36, 0
+  index: -1
+yanliug_00004
+  rotate: true
+  xy: 748, 524
+  size: 77, 42
+  orig: 101, 67
+  offset: 24, 0
+  index: -1
+yanliug_00005
+  rotate: false
+  xy: 239, 23
+  size: 84, 52
+  orig: 101, 67
+  offset: 12, 0
+  index: -1
+yanliug_00006
+  rotate: false
+  xy: 2, 11
+  size: 84, 64
+  orig: 101, 67
+  offset: 0, 0
+  index: -1
+yanliug_00007
+  rotate: false
+  xy: 164, 9
+  size: 73, 66
+  orig: 101, 67
+  offset: 0, 1
+  index: -1
+yanliug_00008
+  rotate: false
+  xy: 648, 441
+  size: 61, 62
+  orig: 101, 67
+  offset: 0, 5
+  index: -1
+yanliug_00009
+  rotate: false
+  xy: 748, 465
+  size: 49, 57
+  orig: 101, 67
+  offset: 0, 10
+  index: -1
+yanliug_00010
+  rotate: false
+  xy: 325, 24
+  size: 37, 51
+  orig: 101, 67
+  offset: 0, 16
+  index: -1

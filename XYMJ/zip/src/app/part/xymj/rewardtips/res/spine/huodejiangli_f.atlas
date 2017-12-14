@@ -1,0 +1,138 @@
+
+huodejiangli_f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangq_00000
+  rotate: false
+  xy: 921, 485
+  size: 87, 89
+  orig: 430, 424
+  offset: 172, 168
+  index: -1
+guangq_00002
+  rotate: false
+  xy: 628, 2
+  size: 320, 316
+  orig: 430, 424
+  offset: 55, 54
+  index: -1
+guangq_00003
+  rotate: false
+  xy: 2, 584
+  size: 430, 424
+  orig: 430, 424
+  offset: 0, 0
+  index: -1
+lignt_00000
+  rotate: false
+  xy: 316, 244
+  size: 310, 338
+  orig: 310, 338
+  offset: 0, 0
+  index: -1
+particule_00001
+  rotate: false
+  xy: 921, 576
+  size: 85, 115
+  orig: 428, 459
+  offset: 186, 219
+  index: -1
+particule_00003
+  rotate: false
+  xy: 774, 693
+  size: 222, 315
+  orig: 428, 459
+  offset: 114, 127
+  index: -1
+particule_00004
+  rotate: false
+  xy: 628, 320
+  size: 291, 328
+  orig: 428, 459
+  offset: 77, 84
+  index: -1
+particule_00005
+  rotate: false
+  xy: 2, 164
+  size: 312, 418
+  orig: 428, 459
+  offset: 86, 41
+  index: -1
+particule_00006
+  rotate: false
+  xy: 434, 650
+  size: 338, 358
+  orig: 428, 459
+  offset: 90, 0
+  index: -1
+particule_00007
+  rotate: true
+  xy: 316, 26
+  size: 216, 296
+  orig: 428, 459
+  offset: 46, 94
+  index: -1
+particule_00008
+  rotate: false
+  xy: 2, 13
+  size: 263, 149
+  orig: 428, 459
+  offset: 0, 64
+  index: -1
+shine_00032
+  rotate: false
+  xy: 434, 597
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+
+huodejiangli_f2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangq_00001
+  rotate: false
+  xy: 545, 316
+  size: 189, 191
+  orig: 430, 424
+  offset: 122, 118
+  index: -1
+guangqu_00002
+  rotate: false
+  xy: 2, 2
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+particule_00002
+  rotate: true
+  xy: 736, 354
+  size: 153, 216
+  orig: 428, 459
+  offset: 151, 172
+  index: -1
+sh_00001
+  rotate: true
+  xy: 205, 40
+  size: 162, 156
+  orig: 296, 303
+  offset: 81, 67
+  index: -1
+sh_00002
+  rotate: false
+  xy: 300, 290
+  size: 243, 217
+  orig: 296, 303
+  offset: 40, 46
+  index: -1
+sh_00003
+  rotate: false
+  xy: 2, 204
+  size: 296, 303
+  orig: 296, 303
+  offset: 0, 0
+  index: -1

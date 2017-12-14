@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/help/res/baoshan01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{233,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{233,74}</string>
+			</dict>
+			<key>app/part/xymj/help/res/baoshan02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{233,0},{233,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{233,74}</string>
+			</dict>
+			<key>app/part/xymj/help/res/BasicRules.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,216},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/BasicRules-l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,74},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/BasicSome.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,353},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/BasicSome-l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,490},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/gejiu01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{466,0},{233,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{233,74}</string>
+			</dict>
+			<key>app/part/xymj/help/res/gejiu02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{699,0},{233,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{233,74}</string>
+			</dict>
+			<key>app/part/xymj/help/res/HuTpye.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,627},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/HuTpye-l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,764},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/SpecialRules.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,901},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/SpecialRules-l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,958},{137,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{137,57}</string>
+			</dict>
+			<key>app/part/xymj/help/res/title_help.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{997,0},{110,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,27}</string>
+			</dict>
+			<key>app/part/xymj/help/res/btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,216},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>app/part/xymj/help/res/btn_closel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,74},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>app/part/xymj/help/res/tipBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{932,0},{216,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{216,65}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>help.png</string>
+			<key>realTextureFileName</key>
+			<string>help.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

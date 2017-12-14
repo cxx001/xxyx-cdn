@@ -1,0 +1,144 @@
+
+chaihongbao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang_00000
+  rotate: false
+  xy: 484, 389
+  size: 322, 25
+  orig: 413, 524
+  offset: 41, 19
+  index: -1
+biankuang_00001
+  rotate: false
+  xy: 484, 416
+  size: 396, 188
+  orig: 413, 524
+  offset: 8, 1
+  index: -1
+biankuang_00005
+  rotate: true
+  xy: 484, 606
+  size: 411, 522
+  orig: 413, 524
+  offset: 1, 2
+  index: -1
+di_00006
+  rotate: true
+  xy: 749, 2
+  size: 175, 232
+  orig: 175, 232
+  offset: 0, 0
+  index: -1
+g_00005
+  rotate: true
+  xy: 2, 6
+  size: 374, 349
+  orig: 374, 349
+  offset: 0, 0
+  index: -1
+light_00007
+  rotate: true
+  xy: 808, 179
+  size: 235, 188
+  orig: 235, 188
+  offset: 0, 0
+  index: -1
+shink_00006
+  rotate: false
+  xy: 2, 382
+  size: 480, 635
+  orig: 480, 635
+  offset: 0, 0
+  index: -1
+yun3_00007
+  rotate: false
+  xy: 353, 8
+  size: 394, 372
+  orig: 394, 372
+  offset: 0, 0
+  index: -1
+zhuan_00001
+  rotate: false
+  xy: 882, 537
+  size: 112, 67
+  orig: 112, 67
+  offset: 0, 0
+  index: -1
+
+chaihongbao2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang_00002
+  rotate: false
+  xy: 417, 629
+  size: 410, 345
+  orig: 413, 524
+  offset: 1, 2
+  index: -1
+biankuang_00003
+  rotate: false
+  xy: 2, 468
+  size: 413, 506
+  orig: 413, 524
+  offset: 0, 0
+  index: -1
+g2_00010
+  rotate: false
+  xy: 718, 5
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+hbsaoguang_00002
+  rotate: false
+  xy: 2, 2
+  size: 350, 464
+  orig: 350, 464
+  offset: 0, 0
+  index: -1
+hbsaoguang_00003
+  rotate: false
+  xy: 718, 232
+  size: 226, 226
+  orig: 350, 464
+  offset: 124, 0
+  index: -1
+quan_00002
+  rotate: false
+  xy: 829, 801
+  size: 175, 173
+  orig: 175, 173
+  offset: 0, 0
+  index: -1
+yun2_00006
+  rotate: false
+  xy: 354, 99
+  size: 362, 359
+  orig: 362, 359
+  offset: 0, 0
+  index: -1
+yun_00006
+  rotate: true
+  xy: 417, 460
+  size: 167, 494
+  orig: 167, 494
+  offset: 0, 0
+  index: -1
+
+chaihongbao3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hbsaoguang_00001
+  rotate: false
+  xy: 2, 2
+  size: 346, 355
+  orig: 350, 464
+  offset: 0, 109
+  index: -1

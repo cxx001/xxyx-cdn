@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,239},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/cardBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,126},{154,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{158,91}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/df.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,46},{42,42}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,52}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/hu_tip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,282},{96,109}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,111}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/ls.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,393},{87,7}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{87,7}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/ls_yuan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,90},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/rect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,126},{58,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,58}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/tick.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,186},{51,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,47}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/xiao_kuang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,1},{43,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,43}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/drawingTip/yuan_rect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{120,123}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,123}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>mj_drawingtip_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>mj_drawingtip_picture.png</string>
+			<key>size</key>
+			<string>{256,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

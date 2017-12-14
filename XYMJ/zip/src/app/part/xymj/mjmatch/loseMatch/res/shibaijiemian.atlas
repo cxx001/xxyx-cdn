@@ -1,0 +1,83 @@
+
+shibaijiemian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1_00000
+  rotate: false
+  xy: 707, 277
+  size: 153, 12
+  orig: 153, 12
+  offset: 0, 0
+  index: -1
+G2_00004
+  rotate: false
+  xy: 975, 435
+  size: 15, 68
+  orig: 15, 68
+  offset: 0, 0
+  index: -1
+G3_00003
+  rotate: false
+  xy: 378, 31
+  size: 113, 123
+  orig: 113, 123
+  offset: 0, 0
+  index: -1
+biao
+  rotate: false
+  xy: 2, 265
+  size: 703, 238
+  orig: 703, 238
+  offset: 0, 0
+  index: -1
+gold_1
+  rotate: false
+  xy: 707, 375
+  size: 266, 128
+  orig: 266, 128
+  offset: 0, 0
+  index: -1
+gold_2
+  rotate: false
+  xy: 250, 156
+  size: 270, 107
+  orig: 270, 107
+  offset: 0, 0
+  index: -1
+jiangbei_1
+  rotate: false
+  xy: 2, 2
+  size: 246, 261
+  orig: 246, 262
+  offset: 0, 0
+  index: -1
+jiangbei_3
+  rotate: false
+  xy: 250, 18
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+shaizi_1
+  rotate: false
+  xy: 863, 301
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+shaizi_2
+  rotate: false
+  xy: 522, 170
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+taotai
+  rotate: false
+  xy: 707, 291
+  size: 154, 82
+  orig: 159, 87
+  offset: 2, 3
+  index: -1

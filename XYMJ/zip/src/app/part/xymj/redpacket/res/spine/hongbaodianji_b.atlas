@@ -1,0 +1,20 @@
+
+hongbaodianji_b.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guld_00005
+  rotate: false
+  xy: 2, 31
+  size: 401, 360
+  orig: 401, 360
+  offset: 0, 0
+  index: -1
+par_1
+  rotate: false
+  xy: 2, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

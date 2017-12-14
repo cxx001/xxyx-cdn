@@ -1,0 +1,20 @@
+
+jingyaneffect.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_00014
+  rotate: false
+  xy: 2, 2
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+light_00014
+  rotate: false
+  xy: 2, 52
+  size: 205, 67
+  orig: 205, 67
+  offset: 0, 0
+  index: -1

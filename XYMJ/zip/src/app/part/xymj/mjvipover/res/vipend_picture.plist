@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mjvipover/res/fangzhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{989,0},{56,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,25}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/fourth.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{638,258}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{638,258}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/fourth_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{638,0},{638,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{638,102}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/fourth_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{740,0},{638,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{638,102}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/over_win.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{842,223},{112,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,130}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/pz_jsfj1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,0},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/pz_jsfj2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,68},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/mjvipover/res/show.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{842,0},{223,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{223,76}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>vipend_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>vipend_picture.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

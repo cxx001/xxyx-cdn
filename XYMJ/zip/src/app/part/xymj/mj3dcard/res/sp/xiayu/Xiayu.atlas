@@ -1,0 +1,139 @@
+
+Xiayu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimiann_00000
+  rotate: false
+  xy: 749, 69
+  size: 183, 136
+  orig: 190, 141
+  offset: 6, 3
+  index: -1
+dimiann_00001
+  rotate: false
+  xy: 375, 66
+  size: 184, 137
+  orig: 190, 141
+  offset: 5, 3
+  index: -1
+dimiann_00002
+  rotate: false
+  xy: 562, 206
+  size: 185, 137
+  orig: 190, 141
+  offset: 4, 3
+  index: -1
+dimiann_00003
+  rotate: false
+  xy: 375, 205
+  size: 185, 138
+  orig: 190, 141
+  offset: 3, 2
+  index: -1
+dimiann_00004
+  rotate: false
+  xy: 192, 345
+  size: 187, 137
+  orig: 190, 141
+  offset: 2, 3
+  index: -1
+dimiann_00005
+  rotate: false
+  xy: 2, 345
+  size: 188, 137
+  orig: 190, 141
+  offset: 0, 3
+  index: -1
+dimiann_00006
+  rotate: true
+  xy: 2, 14
+  size: 187, 137
+  orig: 190, 141
+  offset: 2, 2
+  index: -1
+dimiann_00007
+  rotate: false
+  xy: 570, 345
+  size: 186, 137
+  orig: 190, 141
+  offset: 3, 1
+  index: -1
+dimiann_00008
+  rotate: false
+  xy: 758, 346
+  size: 186, 136
+  orig: 190, 141
+  offset: 3, 2
+  index: -1
+dimiann_00009
+  rotate: false
+  xy: 562, 66
+  size: 184, 138
+  orig: 190, 141
+  offset: 4, 1
+  index: -1
+dimiann_00010
+  rotate: false
+  xy: 758, 207
+  size: 184, 137
+  orig: 190, 141
+  offset: 5, 2
+  index: -1
+dimiann_00011
+  rotate: false
+  xy: 189, 203
+  size: 184, 140
+  orig: 190, 141
+  offset: 5, 1
+  index: -1
+dimiann_00012
+  rotate: false
+  xy: 2, 203
+  size: 185, 140
+  orig: 190, 141
+  offset: 3, 1
+  index: -1
+dimiann_00013
+  rotate: false
+  xy: 141, 63
+  size: 186, 138
+  orig: 190, 141
+  offset: 3, 3
+  index: -1
+dimiann_00014
+  rotate: false
+  xy: 381, 345
+  size: 187, 137
+  orig: 190, 141
+  offset: 3, 1
+  index: -1
+jianchu_00004
+  rotate: false
+  xy: 946, 468
+  size: 23, 14
+  orig: 28, 18
+  offset: 2, 0
+  index: -1
+jianchu_00005
+  rotate: false
+  xy: 141, 43
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+jianchu_00006
+  rotate: false
+  xy: 329, 199
+  size: 13, 2
+  orig: 28, 18
+  offset: 6, 0
+  index: -1
+yudi_00002
+  rotate: true
+  xy: 2, 2
+  size: 10, 118
+  orig: 10, 118
+  offset: 0, 0
+  index: -1

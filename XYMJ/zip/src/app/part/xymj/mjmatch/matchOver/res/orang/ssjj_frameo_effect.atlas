@@ -1,0 +1,139 @@
+
+ssjj_frameo_effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o_1_00001
+  rotate: false
+  xy: 2, 17
+  size: 239, 57
+  orig: 239, 57
+  offset: 0, 0
+  index: -1
+o_2_00001
+  rotate: false
+  xy: 2, 373
+  size: 476, 109
+  orig: 476, 109
+  offset: 0, 0
+  index: -1
+o_3_00003
+  rotate: false
+  xy: 2, 272
+  size: 461, 99
+  orig: 461, 99
+  offset: 0, 0
+  index: -1
+o_3_00004
+  rotate: false
+  xy: 480, 385
+  size: 453, 97
+  orig: 461, 99
+  offset: 7, 1
+  index: -1
+o_3_00005
+  rotate: false
+  xy: 2, 173
+  size: 443, 97
+  orig: 461, 99
+  offset: 17, 1
+  index: -1
+o_3_00006
+  rotate: false
+  xy: 2, 76
+  size: 432, 95
+  orig: 461, 99
+  offset: 27, 2
+  index: -1
+o_4_00003
+  rotate: true
+  xy: 935, 332
+  size: 150, 72
+  orig: 436, 72
+  offset: 0, 0
+  index: -1
+o_4_00004
+  rotate: false
+  xy: 454, 15
+  size: 180, 72
+  orig: 436, 72
+  offset: 0, 0
+  index: -1
+o_4_00005
+  rotate: false
+  xy: 243, 2
+  size: 209, 72
+  orig: 436, 72
+  offset: 0, 0
+  index: -1
+o_4_00006
+  rotate: false
+  xy: 480, 311
+  size: 220, 72
+  orig: 436, 72
+  offset: 18, 0
+  index: -1
+o_4_00007
+  rotate: false
+  xy: 447, 163
+  size: 219, 72
+  orig: 436, 72
+  offset: 48, 0
+  index: -1
+o_4_00008
+  rotate: false
+  xy: 702, 311
+  size: 220, 72
+  orig: 436, 72
+  offset: 77, 0
+  index: -1
+o_4_00009
+  rotate: false
+  xy: 465, 237
+  size: 220, 72
+  orig: 436, 72
+  offset: 106, 0
+  index: -1
+o_4_00010
+  rotate: false
+  xy: 687, 237
+  size: 220, 72
+  orig: 436, 72
+  offset: 135, 0
+  index: -1
+o_4_00011
+  rotate: false
+  xy: 668, 163
+  size: 213, 72
+  orig: 436, 72
+  offset: 165, 0
+  index: -1
+o_4_00012
+  rotate: false
+  xy: 436, 89
+  size: 196, 72
+  orig: 436, 72
+  offset: 196, 0
+  index: -1
+o_4_00013
+  rotate: false
+  xy: 634, 89
+  size: 182, 72
+  orig: 436, 72
+  offset: 225, 0
+  index: -1
+o_4_00014
+  rotate: false
+  xy: 636, 15
+  size: 166, 72
+  orig: 436, 72
+  offset: 255, 0
+  index: -1
+o_4_00015
+  rotate: false
+  xy: 818, 89
+  size: 149, 72
+  orig: 436, 72
+  offset: 287, 0
+  index: -1

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/roomsetting/res/bar1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{932,0},{266,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{266,28}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/bar2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{960,0},{266,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{266,28}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,65},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/btn_closel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,109},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/btn_closex.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{347,52},{70,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,70}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/closeviproom1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,0},{179,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,52}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/closeviproom2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,0},{179,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,52}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/exitroom1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{574,0},{179,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,52}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/exitroom2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,0},{179,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,52}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/music.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{70,109},{42,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,45}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/music_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{988,110},{89,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{89,23}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/sound_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{988,199},{89,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{89,23}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/sz_OFF.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,52},{131,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{131,44}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/sz_ON.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,65},{131,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{131,44}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/tipBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{216,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{216,65}</string>
+			</dict>
+			<key>app/part/xymj/roomsetting/res/tltie_setting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{988,0},{110,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,27}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>roomsetting_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>roomsetting_picture.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

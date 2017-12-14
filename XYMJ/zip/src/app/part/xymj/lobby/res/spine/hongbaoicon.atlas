@@ -1,0 +1,160 @@
+
+hongbaoicon.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+36
+  rotate: false
+  xy: 58, 10
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+678
+  rotate: false
+  xy: 183, 71
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+di_00000
+  rotate: true
+  xy: 191, 32
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+fvh
+  rotate: false
+  xy: 191, 2
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+jinbi_00001
+  rotate: false
+  xy: 2, 60
+  size: 67, 66
+  orig: 67, 67
+  offset: 0, 1
+  index: -1
+quan_00000
+  rotate: false
+  xy: 452, 78
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+saog_0
+  rotate: true
+  xy: 280, 2
+  size: 30, 33
+  orig: 37, 47
+  offset: 0, 14
+  index: -1
+saog_1
+  rotate: true
+  xy: 289, 34
+  size: 37, 44
+  orig: 37, 47
+  offset: 0, 3
+  index: -1
+saog_2
+  rotate: true
+  xy: 240, 34
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+saog_3
+  rotate: true
+  xy: 241, 2
+  size: 30, 37
+  orig: 37, 47
+  offset: 7, 0
+  index: -1
+yind_1
+  rotate: true
+  xy: 335, 2
+  size: 32, 33
+  orig: 54, 55
+  offset: 11, 12
+  index: -1
+yind_10
+  rotate: false
+  xy: 71, 71
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+yind_11
+  rotate: false
+  xy: 127, 71
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+yind_2
+  rotate: false
+  xy: 335, 36
+  size: 38, 37
+  orig: 54, 55
+  offset: 8, 9
+  index: -1
+yind_3
+  rotate: false
+  xy: 147, 26
+  size: 42, 43
+  orig: 54, 55
+  offset: 6, 6
+  index: -1
+yind_4
+  rotate: false
+  xy: 97, 22
+  size: 48, 47
+  orig: 54, 55
+  offset: 3, 4
+  index: -1
+yind_5
+  rotate: false
+  xy: 400, 77
+  size: 50, 49
+  orig: 54, 55
+  offset: 2, 3
+  index: -1
+yind_6
+  rotate: false
+  xy: 348, 75
+  size: 50, 51
+  orig: 54, 55
+  offset: 2, 2
+  index: -1
+yind_7
+  rotate: false
+  xy: 294, 75
+  size: 52, 51
+  orig: 54, 55
+  offset: 1, 2
+  index: -1
+yind_8
+  rotate: false
+  xy: 238, 73
+  size: 54, 53
+  orig: 54, 55
+  offset: 0, 1
+  index: -1
+yind_9
+  rotate: false
+  xy: 2, 3
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 375, 58
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

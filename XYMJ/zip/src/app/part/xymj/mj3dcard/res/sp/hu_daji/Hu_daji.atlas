@@ -1,0 +1,118 @@
+
+Hu_daji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian_00000
+  rotate: false
+  xy: 808, 163
+  size: 109, 89
+  orig: 223, 157
+  offset: 57, 35
+  index: -1
+dimian_00001
+  rotate: false
+  xy: 358, 320
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+dimian_00002
+  rotate: false
+  xy: 358, 161
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+dimian_00003
+  rotate: false
+  xy: 583, 320
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+dimian_00004
+  rotate: false
+  xy: 583, 161
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+dimian_00005
+  rotate: true
+  xy: 808, 254
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+dimian_00006
+  rotate: false
+  xy: 358, 2
+  size: 223, 157
+  orig: 223, 157
+  offset: 0, 0
+  index: -1
+guang_00001
+  rotate: false
+  xy: 2, 7
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+guangdian_00001
+  rotate: false
+  xy: 583, 103
+  size: 53, 56
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+guangdian_00002
+  rotate: false
+  xy: 129, 47
+  size: 43, 63
+  orig: 53, 69
+  offset: 5, 0
+  index: -1
+guangdian_00003
+  rotate: false
+  xy: 967, 408
+  size: 41, 69
+  orig: 53, 69
+  offset: 3, 0
+  index: -1
+shandian_00000
+  rotate: false
+  xy: 152, 112
+  size: 71, 365
+  orig: 84, 365
+  offset: 2, 0
+  index: -1
+shandian_00001
+  rotate: false
+  xy: 78, 112
+  size: 72, 365
+  orig: 84, 365
+  offset: 5, 0
+  index: -1
+shandian_00002
+  rotate: false
+  xy: 2, 112
+  size: 74, 365
+  orig: 84, 365
+  offset: 7, 0
+  index: -1
+shandian_00003
+  rotate: false
+  xy: 225, 112
+  size: 69, 365
+  orig: 84, 365
+  offset: 12, 0
+  index: -1
+shandian_00004
+  rotate: false
+  xy: 296, 112
+  size: 60, 365
+  orig: 84, 365
+  offset: 14, 0
+  index: -1

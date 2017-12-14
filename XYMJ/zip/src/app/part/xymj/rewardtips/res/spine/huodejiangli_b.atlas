@@ -1,0 +1,20 @@
+
+huodejiangli_b.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_00005
+  rotate: false
+  xy: 2, 2
+  size: 581, 486
+  orig: 581, 486
+  offset: 0, 0
+  index: -1
+lignt_00000
+  rotate: false
+  xy: 585, 150
+  size: 310, 338
+  orig: 310, 338
+  offset: 0, 0
+  index: -1

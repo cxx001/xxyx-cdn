@@ -1,0 +1,132 @@
+
+Datingbeijing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_2
+  rotate: false
+  xy: 2, 82
+  size: 414, 312
+  orig: 414, 312
+  offset: 0, 0
+  index: -1
+guangdian_1
+  rotate: false
+  xy: 2, 396
+  size: 514, 575
+  orig: 514, 575
+  offset: 0, 0
+  index: -1
+guangquan_1
+  rotate: false
+  xy: 418, 2
+  size: 334, 327
+  orig: 334, 327
+  offset: 0, 0
+  index: -1
+guangshu _1
+  rotate: true
+  xy: 518, 331
+  size: 640, 195
+  orig: 640, 195
+  offset: 0, 0
+  index: -1
+shu_2
+  rotate: true
+  xy: 518, 331
+  size: 640, 195
+  orig: 640, 195
+  offset: 0, 0
+  index: -1
+huaban_00000
+  rotate: true
+  xy: 2, 38
+  size: 20, 16
+  orig: 20, 21
+  offset: 0, 2
+  index: -1
+huaban_00001
+  rotate: false
+  xy: 23, 64
+  size: 20, 16
+  orig: 20, 21
+  offset: 0, 2
+  index: -1
+huaban_00002
+  rotate: false
+  xy: 418, 376
+  size: 20, 18
+  orig: 20, 21
+  offset: 0, 1
+  index: -1
+huaban_00003
+  rotate: false
+  xy: 715, 950
+  size: 19, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+huaban_00004
+  rotate: true
+  xy: 715, 906
+  size: 20, 13
+  orig: 20, 21
+  offset: 0, 4
+  index: -1
+huaban_00005
+  rotate: true
+  xy: 2, 16
+  size: 20, 11
+  orig: 20, 21
+  offset: 0, 6
+  index: -1
+huaban_00006
+  rotate: true
+  xy: 715, 928
+  size: 20, 18
+  orig: 20, 21
+  offset: 0, 2
+  index: -1
+huaban_00007
+  rotate: false
+  xy: 2, 60
+  size: 19, 20
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+huaban_00008
+  rotate: false
+  xy: 45, 69
+  size: 20, 11
+  orig: 20, 21
+  offset: 0, 5
+  index: -1
+huaban_00009
+  rotate: false
+  xy: 755, 958
+  size: 19, 13
+  orig: 20, 21
+  offset: 1, 4
+  index: -1
+huaban_00010
+  rotate: false
+  xy: 418, 356
+  size: 18, 18
+  orig: 20, 21
+  offset: 2, 2
+  index: -1
+huaban_00011
+  rotate: false
+  xy: 736, 951
+  size: 17, 20
+  orig: 20, 21
+  offset: 2, 0
+  index: -1
+huaban_00012
+  rotate: false
+  xy: 440, 380
+  size: 20, 14
+  orig: 20, 21
+  offset: 0, 3
+  index: -1

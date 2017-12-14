@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mjmatch/detail/res/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,537},{59,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,57}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/award_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{863,1},{239,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,88}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/award_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{863,242},{239,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,88}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/detail_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{863,483},{239,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,88}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/detail_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{863,724},{239,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,88}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/item_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{784,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{784,85}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/myMatch_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,765},{239,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,88}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/myMatch_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{91,765},{239,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,88}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/title_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,230},{186,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{186,52}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/top1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,596},{59,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,57}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/top2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,655},{59,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,57}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/top3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,714},{59,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,57}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/title_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,773},{55,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,55}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/title_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,1},{227,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{227,49}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/my_battle_item.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{787,1},{762,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{762,74}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/share.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{181,765},{248,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{248,82}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/top_battle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,418},{117,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{117,30}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/detail/res/my_battle_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{953,830},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>match_detail_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>match_detail_picture.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

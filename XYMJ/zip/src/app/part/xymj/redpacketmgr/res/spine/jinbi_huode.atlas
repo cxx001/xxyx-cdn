@@ -1,0 +1,125 @@
+
+jinbi_huode.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dise_00000
+  rotate: false
+  xy: 433, 74
+  size: 136, 52
+  orig: 136, 52
+  offset: 0, 0
+  index: -1
+kuang_00000
+  rotate: false
+  xy: 2, 57
+  size: 152, 69
+  orig: 152, 69
+  offset: 0, 0
+  index: -1
+liuguang_00001
+  rotate: false
+  xy: 849, 70
+  size: 126, 56
+  orig: 138, 56
+  offset: 12, 0
+  index: -1
+liuguang_00002
+  rotate: false
+  xy: 295, 71
+  size: 136, 55
+  orig: 138, 56
+  offset: 2, 0
+  index: -1
+liuguang_00003
+  rotate: false
+  xy: 571, 78
+  size: 137, 48
+  orig: 138, 56
+  offset: 1, 7
+  index: -1
+liuguang_00004
+  rotate: false
+  xy: 710, 79
+  size: 137, 47
+  orig: 138, 56
+  offset: 0, 8
+  index: -1
+liuguang_00005
+  rotate: false
+  xy: 156, 71
+  size: 137, 55
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+liuguang_00006
+  rotate: false
+  xy: 192, 15
+  size: 126, 54
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+liuguang_00007
+  rotate: false
+  xy: 320, 15
+  size: 110, 54
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+liuguang_00008
+  rotate: false
+  xy: 571, 22
+  size: 94, 54
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+liuguang_00009
+  rotate: false
+  xy: 667, 23
+  size: 85, 53
+  orig: 138, 56
+  offset: 1, 0
+  index: -1
+liuguang_00010
+  rotate: false
+  xy: 754, 24
+  size: 81, 53
+  orig: 138, 56
+  offset: 1, 0
+  index: -1
+liuguang_00011
+  rotate: false
+  xy: 101, 2
+  size: 89, 53
+  orig: 138, 56
+  offset: 1, 0
+  index: -1
+liuguang_00012
+  rotate: false
+  xy: 2, 2
+  size: 97, 53
+  orig: 138, 56
+  offset: 1, 0
+  index: -1
+start
+  rotate: false
+  xy: 977, 100
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 192, 7
+  size: 6, 84
+  orig: 6, 84
+  offset: 0, 0
+  index: -1
+zuan
+  rotate: false
+  xy: 977, 74
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mj3dcard/res/cancel_bt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,0},{118,108}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/chi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,0},{132,109}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/gang_bt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{623,0},{132,109}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/gang_bt_un.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{330,0},{161,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{161,134}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/hu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{755,0},{119,109}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/jiantou1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{992,0},{11,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{27,27}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/jiantou2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{299,90},{27,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,27}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/jiantou3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{299,117},{27,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,27}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/peng_bt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,90},{143,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/peng_bt_un.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,90},{156,136}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,136}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/b6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{330,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,90}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/gang1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,108},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/gang2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{945,108},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+			<key>app/part/xymj/mj3dcard/res/gang3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,109},{68,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,71}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>mj_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>mj_picture.png</string>
+			<key>size</key>
+			<string>{1019,226}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1019</integer>
+			<key>height</key>
+			<integer>226</integer>
+		</dict>
+	</dict>
+</plist>

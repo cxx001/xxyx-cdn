@@ -1,0 +1,272 @@
+
+ZI_anniu_xinyang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00001
+  rotate: false
+  xy: 2, 256
+  size: 238, 234
+  orig: 238, 234
+  offset: 0, 0
+  index: -1
+gang
+  rotate: true
+  xy: 218, 140
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+gang1
+  rotate: false
+  xy: 218, 42
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+gang_guang_1
+  rotate: false
+  xy: 2, 738
+  size: 323, 284
+  orig: 323, 284
+  offset: 0, 0
+  index: -1
+gang_guang_2
+  rotate: false
+  xy: 294, 432
+  size: 215, 177
+  orig: 215, 177
+  offset: 0, 0
+  index: -1
+guangquan_00018
+  rotate: false
+  xy: 836, 411
+  size: 124, 124
+  orig: 146, 146
+  offset: 11, 12
+  index: -1
+guangquan_00019
+  rotate: false
+  xy: 590, 93
+  size: 130, 130
+  orig: 146, 146
+  offset: 8, 8
+  index: -1
+guangquan_00020
+  rotate: false
+  xy: 592, 225
+  size: 136, 136
+  orig: 146, 146
+  offset: 5, 5
+  index: -1
+guangquan_00021
+  rotate: false
+  xy: 448, 146
+  size: 140, 140
+  orig: 146, 146
+  offset: 3, 3
+  index: -1
+guangquan_00022
+  rotate: false
+  xy: 547, 649
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+guangquan_00023
+  rotate: false
+  xy: 695, 652
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+guangquan_00024
+  rotate: false
+  xy: 843, 679
+  size: 144, 144
+  orig: 146, 146
+  offset: 1, 1
+  index: -1
+guangquan_00025
+  rotate: false
+  xy: 448, 288
+  size: 142, 142
+  orig: 146, 146
+  offset: 2, 2
+  index: -1
+guangquan_00026
+  rotate: false
+  xy: 547, 505
+  size: 142, 142
+  orig: 146, 146
+  offset: 2, 2
+  index: -1
+guangquan_00027
+  rotate: false
+  xy: 843, 537
+  size: 140, 140
+  orig: 146, 146
+  offset: 3, 3
+  index: -1
+guangquan_00028
+  rotate: false
+  xy: 592, 363
+  size: 140, 140
+  orig: 146, 146
+  offset: 3, 3
+  index: -1
+guo
+  rotate: false
+  xy: 734, 549
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+guo-guangd_00001
+  rotate: false
+  xy: 2, 42
+  size: 214, 212
+  orig: 214, 212
+  offset: 0, 0
+  index: -1
+guo_guang_00019
+  rotate: true
+  xy: 837, 825
+  size: 197, 185
+  orig: 197, 185
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 329, 39
+  size: 97, 111
+  orig: 97, 111
+  offset: 0, 0
+  index: -1
+hu1
+  rotate: true
+  xy: 730, 219
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+hu_guang2
+  rotate: true
+  xy: 242, 259
+  size: 171, 204
+  orig: 171, 204
+  offset: 0, 0
+  index: -1
+hu_guang_1
+  rotate: true
+  xy: 327, 797
+  size: 225, 285
+  orig: 225, 285
+  offset: 0, 0
+  index: -1
+kan
+  rotate: false
+  xy: 834, 87
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+kan_guang1
+  rotate: false
+  xy: 321, 152
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+kan_guang2
+  rotate: false
+  xy: 614, 800
+  size: 221, 222
+  orig: 221, 222
+  offset: 0, 0
+  index: -1
+mo_00002
+  rotate: false
+  xy: 767, 16
+  size: 56, 73
+  orig: 126, 110
+  offset: 5, 25
+  index: -1
+mo_00003
+  rotate: false
+  xy: 707, 9
+  size: 58, 80
+  orig: 126, 110
+  offset: 4, 17
+  index: -1
+mo_00004
+  rotate: false
+  xy: 541, 2
+  size: 64, 87
+  orig: 126, 110
+  offset: 4, 11
+  index: -1
+mo_00005
+  rotate: true
+  xy: 607, 5
+  size: 86, 98
+  orig: 126, 110
+  offset: 4, 1
+  index: -1
+mo_00006
+  rotate: true
+  xy: 734, 311
+  size: 108, 100
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+mo_00007
+  rotate: true
+  xy: 734, 421
+  size: 126, 100
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+mo_00008
+  rotate: false
+  xy: 836, 300
+  size: 126, 109
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+mo_00009
+  rotate: true
+  xy: 722, 91
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+peng
+  rotate: false
+  xy: 836, 199
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+peng1
+  rotate: false
+  xy: 428, 49
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+peng_guang2
+  rotate: false
+  xy: 327, 611
+  size: 218, 184
+  orig: 218, 184
+  offset: 0, 0
+  index: -1
+peng_guang_1
+  rotate: false
+  xy: 2, 492
+  size: 290, 244
+  orig: 290, 244
+  offset: 0, 0
+  index: -1

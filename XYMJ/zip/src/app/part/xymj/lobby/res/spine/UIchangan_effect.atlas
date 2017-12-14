@@ -1,0 +1,97 @@
+
+UIchangan_effect.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tubiao_1
+  rotate: false
+  xy: 490, 10
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+tubiao_10
+  rotate: true
+  xy: 2, 2
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+tubiao_11
+  rotate: true
+  xy: 77, 2
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+tubiao_12
+  rotate: false
+  xy: 815, 16
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+tubiao_13
+  rotate: false
+  xy: 685, 12
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+tubiao_2
+  rotate: false
+  xy: 356, 11
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+tubiao_3
+  rotate: false
+  xy: 225, 9
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+tubiao_4
+  rotate: false
+  xy: 291, 8
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+tubiao_5
+  rotate: false
+  xy: 750, 12
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+tubiao_6
+  rotate: false
+  xy: 555, 11
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tubiao_7
+  rotate: false
+  xy: 620, 11
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tubiao_8
+  rotate: false
+  xy: 423, 11
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+tubiao_9
+  rotate: true
+  xy: 152, 2
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1

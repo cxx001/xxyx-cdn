@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>app/part/xymj/mjmatch/loseMatch/res/font_qaw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{423,0},{206,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,79}</string>
+			</dict>
+			<key>app/part/xymj/mjmatch/loseMatch/res/lose_tips.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{423,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{423,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>loseMatch_picture.png</string>
+			<key>realTextureFileName</key>
+			<string>loseMatch_picture.png</string>
+			<key>size</key>
+			<string>{1024,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>
